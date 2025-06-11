@@ -151,7 +151,7 @@ Our model uses the same dataset structure as described in the [Timetuning datase
 
 The figure shows MoSiC's in-context scene understanding capabilities on Pascal VOC. By training DINOv2's dense representations on unlabeled videos, MoSiC achieves precise segmentation boundaries and object identification.
 
-
+<!--
 ## Citation
 If you find this work useful in your research, please consider citing:
 
@@ -163,6 +163,7 @@ If you find this work useful in your research, please consider citing:
   year={2024}
 }
 ```
+-->
 
 <!-- ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
