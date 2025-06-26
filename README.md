@@ -1,4 +1,5 @@
-# MoSiC: Optimal-Transport Motion Trajectory for Dense Self-Supervised Learning
+# MoSiC: Optimal-Transport Motion Trajectory for Dense Self-Supervised Learning  
+## ICCV 2025
 
 [Mohammadreza Salehi](https://scholar.google.com/citations?user=kpT3gcsAAAAJ&hl=en), [Shashanka Venkataramanan](https://scholar.google.co.in/citations?user=CbfH47IAAAAJ&hl=en), [Ioana Simion](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Su8iPecAAAAJ), [Efstratios Gavves](https://www.egavves.com/), [Cees G. M. Snoek](https://www.ceessnoek.info/), [Yuki M. Asano](https://yukimasano.github.io/),
 
@@ -164,6 +165,19 @@ If you find this work useful in your research, please consider citing:
 }
 ```
 -->
+
+## CITATION
+
+If you find this repository useful, please consider giving a star ⭐ and citation:
+
+```
+@inproceedings{salehi2025mosic,  
+  title={MoSiC: Optimal-Transport Motion Trajectory for Dense Self-Supervised Learning},
+  author={Salehi, Mohammadreza and Venkataramanan, Shashanka and Simion, Ioana and Gavves, Efstratios and Snoek, Cees GM and Asano, Yuki M},
+  booktitle={International Conference on Computer Vision},  
+  year={2024}  
+}
+```
 
 <!-- ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
