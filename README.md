@@ -72,7 +72,7 @@ model = vit_small_patch16_224()
 state_dict = torch.load(path_to_checkpoint)
 
 # Adjust key names if needed
-model.load_state_dict({'.'.join(k.split('.')[2:]): v for k, v in state_dict.items()}, strict=False)
+model.load_state_dict(state_dict, strict=False)
 
 # Extract semantically rich patch embeddings (e.g., 16x16 patches)
 features = model.forward_features(batch)
