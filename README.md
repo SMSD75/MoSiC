@@ -182,5 +182,3 @@ If you find this repository useful, please consider giving a star ⭐ and citati
 ## License
 This project is licensed under the [Apache License 2.0](LICENSE).
 
-## Acknowledgments
-We thank all contributors and the research community for their valuable feedback and support. -->
